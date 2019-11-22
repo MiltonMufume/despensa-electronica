@@ -1,6 +1,0 @@
-co/mz/mufume/despensa/provider/DespensaElectronicaAPIProvider.class
-co/mz/mufume/despensa/domain/Produto.class
-co/mz/mufume/despensa/activator/DocumentsServiceActivator.class
-co/mz/mufume/despensa/service/DespensaElectronicaAPIService.class
-co/mz/mufume/despensa/io/ProdutosDespensaOutput.class
-co/mz/mufume/despensa/io/ProdutosDespensaInput.class
