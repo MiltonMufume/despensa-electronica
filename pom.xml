@@ -159,8 +159,8 @@
                                 <goal>copy-resources</goal>
                             </goals>
                             <configuration>
-                                <outputDirectory>/depensa-electronica/target/services
-                                </outputDirectory>
+                               <!-- <outputDirectory>/home/mufume/faculdade_workspace/depensa-electronica/target/services
+                                </outputDirectory>-->
                                 <resources>
                                     <resource>
                                         <directory>target</directory>
